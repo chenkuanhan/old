@@ -1,0 +1,19 @@
+-course1
+-基礎指令教學流程 
+---------------
+mkdir cd add data
+
+git init
+
+git remote add origin     ...........
+
+git branch -M  
+
+git pull --rebase origin side1
+
+git add *
+
+git commit -m "upload side1"
+
+
+git push origin side1
